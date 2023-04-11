@@ -1,5 +1,5 @@
 <h1 align="center">I'm Khabibullin Alisher</h1>
-<h3 align="center">A passionate frontend developer of Java</h3>
+<h3 align="center">A passionate backend developer of Java</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alalaq" alt="alalaq" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I can move my ears**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://t.me/KhabiBully </h3>
 <p align="left">
 </p>
 
